@@ -35,7 +35,6 @@ public class Main {
         if (value <= 0) {
             System.out.print("Значение не может быть отрицательным или раным нулю");
         }
-
     }
 
     static double countSum(double pv, double r, double n) {
