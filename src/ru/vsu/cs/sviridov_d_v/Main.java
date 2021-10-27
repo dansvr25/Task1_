@@ -34,7 +34,6 @@ public class Main {
     static void checkNumber(double value) {
         if (value <= 0) {
             System.out.print("Значение не может быть отрицательным или раным нулю");
-            System.exit(1);
         }
 
     }
